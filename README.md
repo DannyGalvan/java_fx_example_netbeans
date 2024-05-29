@@ -6,8 +6,8 @@
 
 1.- Clonar el repositorio
 
-2.- Crear un archivo .env.development en la raiz del proyecto
+2.- Crear un archivo .env en la raiz del proyecto
 
-3.- El archivo .env.developmlent debe tener la estructura del archivo .env.example con los datos requeridos
+3.- El archivo .env debe tener la estructura del archivo .env.example con los datos requeridos
 
 4.- Ejecutar el proyecto
